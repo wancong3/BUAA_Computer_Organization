@@ -1,4 +1,4 @@
-# BUAA_Computer_Composition
+# BUAA_Computer_Organization
 **北航计算机组成实验**
 
 dbq，我太菜了，只做到p6
